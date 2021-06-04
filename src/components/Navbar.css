@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(2, 12, 44);
+}
+
+.navbar-dark .navbar-brand.navbar-brand{
+    margin-left: 5px;
+    font-family: CerebriSans;
+    font-size: 3rem;
+    color: rgb(240, 224, 224);
+}
+.navbar-collapse.collapse{
+    font-family: CerebriSans;
+    font-size: 1.7rem;
+    padding-left: 30px;  
+    
+    
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: rgb(212, 209, 209);
+    margin-left: 50px; 
+    margin-top: 5px;
+}
+
+.dropdown-item{
+    font-size: 1.5rem;
+    transition-delay: 100ms;
+    padding-bottom: 10px;
+
+}

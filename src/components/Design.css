@@ -1,0 +1,48 @@
+.designTitle{
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: rgb(63, 61, 61);
+}
+.designTitleBlue{
+    text-align: center;
+    font-size: 3.5rem;
+    color: rgb(85, 85, 235);
+    font-weight: bold;
+
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+vl {
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    height: 500px;
+  }
+
+.design-card-maintitle{
+    color: rgb(231, 241, 241);
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold; 
+}
+
+.design-card-subtitle {
+    color: rgb(231, 241, 241);
+    opacity: 0.7;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+.card.bg-secondary{
+    height: 450px;
+    margin-left: 20%;
+    margin-block-start: 30%;
+    margin-block-end: 30%;
+}

@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  overflow: hidden; /* Hide scrollbars */
+
+}
+
+.h4{
+  opacity: 0.5;
+  font-family: CerebriSans;
+  
+}
+
+.h3{
+  color: rgb(153, 150, 150);
+}
+
+.h2{
+  color: black;
+  font-weight: bold;
+  font-size: xx-large;
+  font-family: CerebriSans;
+}

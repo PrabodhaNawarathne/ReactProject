@@ -1,0 +1,27 @@
+.carousel{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    /* background-color: rgb(164, 164, 170); */
+    /* width: 80%;
+    height: 60%;
+    align-self: center; */
+}
+
+.carousel-inner{
+    /* width: 800px;
+    height: 400px; */
+    align-content: center;
+}
+.d-block{
+    
+}
+.header-xl{
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: CerebriSans;
+    color: rgb(228, 217, 217);
+}
+
+.card :hover{
+   
+}

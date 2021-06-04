@@ -1,0 +1,22 @@
+.contactus{
+    width: 100%;
+}
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    margin-left: 25px;
+    height:80%;
+    width:100%;
+    position:absolute;
+    }
+
+.card-text{
+    font-size: 2.5rem;
+}
